@@ -42,26 +42,26 @@ A sample dataset (`roommate_compatibility_dataset.csv`) is included with the fol
 | ... | (See full list in code) | ... |  
 
 ## 🛠 Tech Stack
--> Python 3
--> Libraries:
-   > pandas (Data handling)
+-> Python 3<br>
+-> Libraries:<br>
+   > pandas (Data handling)<br>
    > scikit-learn (Cosine similarity, preprocessing)
--> Preprocessing:
-   > One-Hot Encoding (Categorical data)
+-> Preprocessing:<br>
+   > One-Hot Encoding (Categorical data)<br>
    > Min-Max Scaling (Numerical data)
 
 ## 🔍 How It Works
-1. Preprocessing:
-    Converts categorical traits (e.g., "Night Owl") into numerical vectors.
+1. Preprocessing:<br>
+    Converts categorical traits (e.g., "Night Owl") into numerical vectors.<br>
     Scales numerical values (e.g., cleanliness scores) to 0–1.
-2. Similarity Calculation:
+2. Similarity Calculation:<br>
     Computes pairwise cosine similarity between all students.
-3. Matching:
+3. Matching:<br>
     Ranks top matches based on similarity scores.
 
 ## ⚙️ Installation
 1. Clone the repo:
-    git clone https://github.com/yourusername/roommate-compatibility-predictor.git
+    git clone https://github.com/Omkarjha31/Roommate-Compatibility-Predictor-.git
 
 2. Install dependencies:
     pip install pandas scikit-learn
@@ -69,9 +69,9 @@ A sample dataset (`roommate_compatibility_dataset.csv`) is included with the fol
 ## 🚀 Usage
 1. Run the Jupyter notebook 
 2. Options:
-   > Match an existing student (e.g., Student_1).
+   > Match an existing student (e.g., Student_1).<br>
    > Enter your profile to find compatible roommates.
 
 ## 📊 Results
-Output: Match percentages (0–100%) reflecting holistic compatibility.
+Output: Match percentages (0–100%) reflecting holistic compatibility.<br>
 Advantage: Beats single-filter systems by 40% in simulated tests (hypothetical).
