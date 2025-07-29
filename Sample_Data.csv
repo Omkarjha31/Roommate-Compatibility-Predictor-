@@ -1,0 +1,8 @@
+Name,Gender,Program of Study,Sleep Type,Cleanliness Importance,Social Type,Okay with Smoking,Okay with Visitors,Noise Tolerance,Annoying Habit
+Student_1,Female,B.Tech CSE,Night Owl,5,Extroverted,No,No,1,Messy room
+Student_2,Prefer not to say,B.Tech CSE,Early Bird,3,Ambiverted,No,Yes,5,Messy room
+Student_3,Female,B.Tech CSE,Early Bird,4,Ambiverted,Maybe,Maybe,5,Messy room
+Student_4,Male,B.Tech CSE,Early Bird,1,Extroverted,Maybe,Yes,4,Too much gaming
+Student_5,Female,B.Tech CSE,Early Bird,1,Extroverted,Yes,Maybe,3,Messy room
+Student_6,Male,B.Tech ECE,Night Owl,3,Ambiverted,Yes,Maybe,1,Loud music
+Student_7,Female,B.Tech ECE,Night Owl,1,Extroverted,Maybe,No,4,Messy room
