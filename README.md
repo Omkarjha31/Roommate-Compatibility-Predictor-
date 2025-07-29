@@ -44,11 +44,11 @@ A sample dataset (`roommate_compatibility_dataset.csv`) is included with the fol
 ## 🛠 Tech Stack
 -> Python 3<br>
 -> Libraries:<br>
-   > pandas (Data handling)<br>
-   > scikit-learn (Cosine similarity, preprocessing)
+    pandas (Data handling)<br>
+    scikit-learn (Cosine similarity, preprocessing)<br>
 -> Preprocessing:<br>
-   > One-Hot Encoding (Categorical data)<br>
-   > Min-Max Scaling (Numerical data)
+    One-Hot Encoding (Categorical data)<br>
+    Min-Max Scaling (Numerical data)
 
 ## 🔍 How It Works
 1. Preprocessing:<br>
@@ -69,8 +69,8 @@ A sample dataset (`roommate_compatibility_dataset.csv`) is included with the fol
 ## 🚀 Usage
 1. Run the Jupyter notebook 
 2. Options:
-   > Match an existing student (e.g., Student_1).<br>
-   > Enter your profile to find compatible roommates.
+    Match an existing student (e.g., Student_1).<br>
+    Enter your profile to find compatible roommates.
 
 ## 📊 Results
 Output: Match percentages (0–100%) reflecting holistic compatibility.<br>
